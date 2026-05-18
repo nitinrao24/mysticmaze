@@ -1,6 +1,6 @@
 # 🏰 Mystic Maze
 
-> A Java dungeon exploration game with procedurally generated worlds, shortest-path navigation, NPC dialogue, coin collection, and full save/load support.
+> A Java dungeon exploration game with procedurally generated worlds, shortest-path navigation, NPC dialogue, coin collection, and full save/load support. Project Completed with Leo Du and Nitin Rao.
 
 ---
 
